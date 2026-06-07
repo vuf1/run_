@@ -20,5 +20,7 @@ sudo mv myscript /usr/local/bin/
 which run
 ```
 ^ try to make sure it works (should output "/usr/local/bin/run")
-if its not working:
-try: ```zsh sudo chmod +x /usr/local/bin/run ```
+if its not workinh, try: 
+```
+zsh sudo chmod +x /usr/local/bin/run
+```
