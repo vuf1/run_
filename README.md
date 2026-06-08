@@ -28,3 +28,7 @@ if its not working, try:
 ```zsh
 sudo chmod +x /usr/local/bin/run
 ```
+#### if you dont have /usr/local/bin/ yet, try this:
+```zsh
+sudo mkdir -p /usr/local/bin
+```
