@@ -3,7 +3,7 @@
 echo "Enter your command to execute it, "
 echo "-py to run python code," 
 echo "*py to run a python file,"
-echo "and exit to exit"
+echo "and exit to exit."
 while true; do
     read -r -e "input?>> "
     if [[ "$input" == "exit" ]]; then
