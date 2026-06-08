@@ -9,7 +9,7 @@ while true; do
     if [[ "$input" == "exit" ]]; then
         break
     elif [[ "$input" == "-py" ]]; then
-        echo "Enter your Python code. Type: END on a new line when finished:"
+        echo "Enter your Python code. Type END on a new line when finished:"
         code=""
         while true; do
             read -r line
