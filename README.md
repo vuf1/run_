@@ -1,5 +1,6 @@
 # run_
 runs either python code or zsh commands
+
 ## setup
 #### note, you may be prompted for your password (sudo), make sure that you own the device you are configurating this on.
 first paste the zsh script into a file called run.zsh (dir = /Users/____/run.zsh
