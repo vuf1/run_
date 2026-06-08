@@ -1,6 +1,8 @@
-# run_
+# run
 
-runs either python code or zsh commands
+Runs either python code or zsh commands
+
+NOTE: You may need some terminal command knowledge
 
 ## setup
 
