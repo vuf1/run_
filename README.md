@@ -9,7 +9,9 @@ NOTE: for full functionallity, you should check if you have python3 and jq (and 
 ### NOTE: You may need some terminal command knowledge for this setup.
 
 ## Note: you may be prompted for your password (sudo), make sure that you own the device you are configurating this on.
-first paste the zsh script into a file called run.zsh (dir = /Users/____/run.zsh
+first paste the zsh script into a file called run.zsh (dir = /Users/____/run.zsh)
+
+
 first command:
 
 ```zsh
